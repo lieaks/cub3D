@@ -1,0 +1,12 @@
+NO ./textures/north64.xpm
+SO ./textures/south64.xpm
+WE ./textures/west64.xpm
+EA ./textures/east64.xpm
+F 220,100,0
+C 225,30,0
+
+111
+10111
+1N001
+10111
+111
